@@ -1,0 +1,9 @@
+﻿<ScheduleTrig>
+  <Id>TESTTRIG</Id>
+  <Name>Testar schedule</Name>
+  <Description>NODESCRIPTION</Description>
+  <TimeStamp>2018-11-22 15:31:06,769</TimeStamp>
+  <MetaData>
+    <Correct>true</Correct>
+  </MetaData>
+</ScheduleTrig>
